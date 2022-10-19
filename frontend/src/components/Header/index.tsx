@@ -1,5 +1,5 @@
 import './styles.css'
-import logoImg from '../../assets/img/dsmeta-logo.svg'
+import logoImg from '../../assets/img/logo.svg'
 
 export function Header() {
   return (
